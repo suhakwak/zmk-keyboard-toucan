@@ -8,14 +8,7 @@
 #define ADJ  3
 
 / {
-    conditional_layers {
-        compatible = "zmk,conditional-layers";
-
-        tri_layer {
-            if-layers = <1 2>;
-            then-layer = <3>;
-        };
-    };
+    conditional_layers { compatible = "zmk,conditional-layers"; };
 
     keymap {
         compatible = "zmk,keymap";
@@ -41,8 +34,8 @@
             >;
         };
 
-        adj {
-            display-name = "ADJ";
+        sym {
+            display-name = "SYM";
             bindings = <
 &kp PERCENT  &kp GRAVE  &kp SQT  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp NON_US_BACKSLASH  &none  &none  &none  &none  &none  &none  &kp DOLLAR  &kp EQUAL  &kp PLUS  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp MINUS  &none  &none  &none  &none  &none  &none  &kp CARET  &kp AT_SIGN  &kp AMPERSAND  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp HASH  &none  &none  &none  &none  &none  &none  &kp F2  &kp ASTERISK  &kp EXCLAMATION  &none  &none  &none
             >;

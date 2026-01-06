@@ -23,7 +23,7 @@
         nav {
             display-name = "NAV";
             bindings = <
-&none  &none  &none  &none  &none  &none  &kp PAGE_UP  &kp LG(LEFT)  &kp UP  &kp LG(RIGHT)  &kp C_VOLUME_UP  &kp DELETE  &none  &none  &none  &none  &none  &none  &kp PAGE_DOWN  &kp LEFT  &kp DOWN  &kp RIGHT  &kp C_VOLUME_DOWN  &kp LS(LG(NUMBER_4))  &kp LEFT_SHIFT  &none  &none  &none  &none  &none  &kp LG(Z)  &kp LG(X)  &kp LG(C)  &kp LG(V)  &none  &none  &kp LGUI  &kp LALT  &mkp MB1  &mkp MB2  &none  &none
+&none  &none  &none  &none  &none  &none  &kp PAGE_UP  &kp LG(LEFT)  &kp UP  &kp LG(RIGHT)  &kp C_VOLUME_UP  &kp DELETE  &none  &none  &none  &kp LGUI  &none  &none  &kp PAGE_DOWN  &kp LEFT  &kp DOWN  &kp RIGHT  &kp C_VOLUME_DOWN  &kp LS(LG(NUMBER_4))  &kp LEFT_SHIFT  &none  &none  &none  &none  &none  &kp LG(Z)  &kp LG(X)  &kp LG(C)  &kp LG(V)  &none  &none  &none  &kp LALT  &mkp MB1  &mkp MB2  &none  &none
             >;
         };
 

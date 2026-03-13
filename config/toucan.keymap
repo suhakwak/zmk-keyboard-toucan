@@ -31,7 +31,7 @@
         nav {
             display-name = "NAV";
             bindings = <
-&none  &none  &none  &kp LG(GRAVE)  &none  &none  &kp PAGE_UP  &kp LG(LEFT)  &kp UP  &kp LG(RIGHT)  &kp C_VOLUME_UP  &kp DELETE  &none  &none  &kp LSHIFT  &kp LGUI  &none  &none  &kp PAGE_DOWN  &kp LEFT  &kp DOWN  &kp RIGHT  &kp C_VOLUME_DOWN  &kp LS(LG(LC(NUMBER_4)))  &none  &none  &none  &none  &none  &none  &kp LG(Z)  &kp LG(X)  &kp LG(C)  &kp LG(V)  &kp F2  &kp F5  &none  &kp LALT  &none  &none  &none  &none
+&none  &none  &none  &kp LG(GRAVE)  &none  &none  &kp PAGE_UP  &kp LG(LEFT)  &kp UP  &kp LG(RIGHT)  &kp C_VOLUME_UP  &kp DELETE  &none  &none  &kp LSHIFT  &kp LGUI  &none  &none  &kp PAGE_DOWN  &kp LEFT  &kp DOWN  &kp RIGHT  &kp C_VOLUME_DOWN  &kp LS(LG(LC(NUMBER_4)))  &none  &none  &none  &none  &none  &none  &kp LG(Z)  &kp LG(X)  &kp LG(C)  &kp LG(V)  &kp F2  &kp F5  &none  &kp LALT  &none  &kp LG(SPACE)  &none  &none
             >;
         };
 
